@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # challenge
 =======
 # DevOps Sprint 4 - Pipeline para App TeachPech
@@ -41,4 +39,3 @@ As tecnologias utilizadas neste projeto são:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
->>>>>>> 1351d362b45e36fad0b799a42b9c676e67c2da5e
